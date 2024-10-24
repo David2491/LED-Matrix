@@ -1,2 +1,2 @@
 # LED-Matrix
-A piece of code written in the Arduino IDE for causing a series of LEDs to fade through colours on a regular Interval
+A piece of code written in the Arduino IDE for causing a series of LEDs to fade through colours on a regular Interval. It uses the FastLED library to control the LEDs. I defined a function that takes in 6 parameters (3 for each colour), and causes all LEDs to transition from the first colour to the second.
